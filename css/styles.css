@@ -76,16 +76,12 @@
     scroll-behavior: smooth;
   }
 }
-@font-face {
-  font-family: iranYekan, sans-serif;
-  src: url('/assets/fonts/IRANYekanWebRegular.ttf');
-}
 
 body {
   margin: 0;
   direction: rtl;
   font-size: var(--bs-body-font-size);
-  font-family: iranYekan;
+  font-family: IRANYekanFN;
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
@@ -11933,7 +11929,7 @@ video.bg-video {
     padding-bottom: 0;
   }
   .masthead:before {
-    transform: skewX(-9deg);
+    transform: skewX(9deg);
     transform-origin: top right;
   }
   .masthead .masthead-content {

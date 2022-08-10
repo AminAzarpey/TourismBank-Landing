@@ -1,0 +1,48 @@
+@font-face {
+  font-family: IRANYekanFN;
+  font-weight: 900;
+  src: url('/assets/fonts/IRANYekanBoldFaNum.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: IRANYekanFN;
+  font-weight: 700;
+  src: url('../assets/fonts/IRANYekanBoldFaNum.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: IRANYekanFN;
+  font-weight: 950;
+  src: url('../assets/fonts/IRANYekanExtraBlackFaNum.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: IRANYekanFN;
+  font-weight: 800;
+  src: url('../assets/fonts/IRANYekanExtraBoldFaNum.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: IRANYekanFN;
+  font-weight: 300;
+  src: url('../assets/fonts/IRANYekanLightFaNum.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: IRANYekanFN;
+  font-weight: 500;
+  src: url('../assets/fonts/IRANYekanMediumFaNum.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: IRANYekanFN;
+  font-weight: 400;
+  src: url('../assets/fonts/IRANYekanRegularFaNum.ttf')
+    format('truetype');
+}
+@font-face {
+  font-family: IRANYekanFN;
+  font-weight: 100;
+  src: url('/assets/fonts/IRANYekanThinFaNum.ttf')
+    format('truetype');
+}
